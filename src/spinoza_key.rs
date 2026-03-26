@@ -1,0 +1,1 @@
+// SpinozaKey enum placeholder
